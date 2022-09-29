@@ -1,5 +1,5 @@
-# IBM-Project-35509-1660285389
-## *Web Phishing Detection*
+# IBM-Project-36902-1660298664
+## *News Tracker Application*
 ### Team Members:
 
 * Team Member 1: Deepika A N (Team lead)<br/>
